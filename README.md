@@ -23,5 +23,6 @@ Neste momento a aplicação implementa as seguintes operações:
  - Git
  - GitHub Desktop
  - Plataforma GitHub
+ - PSI
 
  
